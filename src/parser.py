@@ -1,5 +1,5 @@
 import re
-from skills import SKILLS
+from src.skills import SKILLS
 
 
 def clean(text):
